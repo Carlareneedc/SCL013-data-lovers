@@ -2,7 +2,7 @@
   font-family: "IM fell English", serif;
   margin: 0px;
 }
-/*Agregamos la class al lado de body con un punto y el 2do fondo */
+/*página de inicio*/
 body {
   background-image: url("fondopagina.jpg");
 }
@@ -14,16 +14,7 @@ body {
     padding: 8px;
   }
 }
-/* PAG 2 */
-.filtersBackground {
-  background-image: url("hpsegundo.jpg");
-  /* background-size: cover cover; */
-}
-@media screen and (max-width: 400px) {
-  .filtersBackground {
-    margin: auto;
-  }
-}
+
 .welcome {
   margin: 0px;
   padding: 20px;
@@ -99,7 +90,15 @@ body {
   }
 }
 /* PAG 2 */
-
+.filtersBackground {
+  background-image: url("hpsegundo.jpg");
+  /* background-size: cover cover; */
+}
+@media screen and (max-width: 400px) {
+  .filtersBackground {
+    margin: auto;
+  }
+}
 .main {
   display: flex;
   align-content: center;

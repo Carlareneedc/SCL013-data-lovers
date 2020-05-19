@@ -43,10 +43,9 @@ Este flujo corresponde a la iteración del segundo diagrama, el que corregimos s
 ![Flujo digital 2](flujo2.jpg)
 
 
-[Revisa acá nuestra planificación](https://miro.com/welcomeonboard/UcPQAVRzS00CIXHos62V7Y3bWSURdB5585Fu7NBYcsPXKgyXNmca6mOHkW7sBA3S)
+[Revisa acá nuestra planificación](https://trello.com/b/6KMWnkiP/planificaci%C3%B3n-data-lovers)
 
-
-[Revisa acá nuestras historias de usuario](https://trello.com/b/6KMWnkiP/planificaci%C3%B3n-data-lovers)
+[Revisa acá nuestras historias de usuario](https://miro.com/welcomeonboard/UcPQAVRzS00CIXHos62V7Y3bWSURdB5585Fu7NBYcsPXKgyXNmca6mOHkW7sBA3S)
 
 ***
 
@@ -162,14 +161,13 @@ En este Slide visualizamos el funcionamiento principal de la plataforma. Esto se
 * Header con logo de la página
 * Menús desplegables que contienen la siguiente información. 
     * **"Casas"**. al clickear este menú se despliegan los items: **"Gryffindor", "Slytherin", "Hafflepuff", "Ravenclaw"**. Al clickear cada item, se muestran los personajes correspondientes a cada casa.
-    * **"Personajes"**. Al clickear este menú se despliegan los items: **"Protagonistas", "Antagonistas"**. Al clickear cada item, se muestran los personajes correspondientes a cada categoría.
+     * **"Personajes"**. Al clickear este menú, se despliegan dos items: **"Femenino"**, **"Masculino"**. Al clickear cada uno, se muestran los personajes masculinos y femeninos respectivamente.
     * **"Hogwarts"**. Al clickear este menú se despliegan los items: **"Estudiantes", "Staff"**. Al clickear cada item, se despliegan los personajes correspondientes a cada categoría.
-    * **"Patronus"**. Al clickear este menú, se despliegan todos los patronus que se encuentran en la data brindada por el cliente.
-* Abajo de lo descrito anteriormente, se muestran tres items donde se puede visualizar el filtrado.
+* Abajo de lo descrito anteriormente, se muestran dos items donde se puede visualizar el filtrado.
     * **"buscar"**. Corresponde al buscador de información. Aquí se puede buscar cada contenido perteneciente a la data.
     * **"Ordenar"**. Al clickear este menú, se despliegan dos items: **"A-Z" y "Z-A"**. Al clickear cada uno, mostrará los personajes ordenados alfabéticamente.
-    * **"Filtrar"**. Al clickear este menú, se despliegan un item: **"Género"**, que contiene dos sub items **"Femenino"**, **Masculino**. Al clickear cada uno, se muestran los personajes masculinos y femeninos respectivamente.
-* En conjunto con lo anterior, se muestra la información de cada personaje junto con una imagen que los representa, éstas se encuentran en un contenedor o tarjeta con atributos visuales. Estos se muestran siempre en la pantalla. Al posicionar el mouse sobre cada uno, la tarjeta se gira y se exponen las características de los personajes ya mencionados. 
+   
+* En conjunto con lo anterior, se muestra la información de cada personaje junto con una imagen que los representa, éstas se encuentran en un contenedor o tarjeta con atributos visuales. Estos se muestran siempre en la pantalla. Al posicionar el mouse sobre cada uno, se exponen las características de los personajes ya mencionados. 
 * Botón **"Volver"**. Este botón nos lleva directamente a la página de inicio o slide uno.
 
 ***
